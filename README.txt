@@ -1,4 +1,4 @@
-This repository holds a class libary that reduces the code written to call stored procedures.
+This repository holds a class libary that reduces the code needed to add parameters to a objCommand.
 
 EXAMPLE ON USE:
 
