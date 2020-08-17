@@ -2,7 +2,7 @@ This repository holds a class libary that reduces the code written to call store
 
 EXAMPLE ON USE:
 
-FillParameters fp = new FillParameters ();
+FillParameters fp = new FillParameters();
 
 function objCommand GetUsersByName(string name){
         //Gets a new SQL Command object
